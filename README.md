@@ -1,3 +1,5 @@
+**RAW MODE**
+
 Eye-Controlled Mouse and Voice Commands
   This project combines eye-tracking technology and voice commands to create an innovative and hands-free computer interaction experience.
   The program allows users to control the mouse cursor using their eyes and execute various commands through voice input.
